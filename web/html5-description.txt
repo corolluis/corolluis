@@ -9,7 +9,7 @@ lg: TVs
 
 HTML5
 
-html5 Organitza millor els elemenst de la web i els dona una semàntica millor
+html5 Organitza millor els elements de la web i els dona una semàntica millor
 
 	<!DOCTYPE HTML>
 	<html>
@@ -49,7 +49,7 @@ Elements eliminats
 				<object>
 				<ul>
 				<del>
-	            <iframe>
+	      <iframe>
 	<frameset>
 	<noframes>
 
